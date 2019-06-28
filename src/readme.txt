@@ -1,0 +1,10 @@
+calibParamsl.txt:相机参数
+wd_data,wd_segmented:输入图片
+input：输入模型，命名中含有其面片个数
+results：结果
+TextureRebuild文件夹内：有库和工程
+how_much_used_for_picture.txt 记录每个图片对应的面片
+mosaic_result记录每个面片对应的图片
+how_much_can_see记录每个视角有哪些能看见哪些看不见
+test文件夹是上面的可视化结果
+每个代码文件内部都有注释
